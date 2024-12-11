@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: A simple package creation
+Home-page: https://github.com/pawanhardikar/mypackage
+Author: Pawan V Hardikar
+Author-email: pawanhardikar@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
